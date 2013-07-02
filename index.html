@@ -4,7 +4,17 @@ title: "Posts"
 ---
 
 <section class="content">
-  <h1 class="thin">POSTS</h1>
+  <h1 class="thin">12nines.com</h1>
+  <div class="posts">
+    {% for post in site.posts %}
+    <div class="post">
+	<h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+	<h4>{{ post.date | date_to_string }}</h4>
+	<p>{{ post.content }}</p>
+    </div>
+    {% endfor %}
+</div>
+
   <ul class="listing">
     {% for post in site.posts %}
     <li>

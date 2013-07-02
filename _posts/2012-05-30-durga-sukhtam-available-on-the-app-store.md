@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: []
 ---
-{% include JB/setup %}
 
 <img style="float: left; margin-right: 1.625em;" src="/images/Durga-Sukhtam-iPhone-icon-114x114px.png" />
 

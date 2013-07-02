@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: []
 ---
-{% include JB/setup %}
 
 Durga Sukhtam has been on the apple app store for just over a month now, I’ve been listening to feedback from users of the app and decided it was time to put out an updated with some of the requested enhancements. You can download the app from the iTunes app store here: <http://j.mp/durga-sukhtam>
 

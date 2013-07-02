@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: []
 ---
-{% include JB/setup %}
 
 <img style="clear: both; display: block; margin-left: auto; margin-right: auto;" src="/images/12nines.jpg" />
 

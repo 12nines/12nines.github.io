@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: []
 ---
-{% include JB/setup %}
 
 Pretty simple, __9 times 12 equals 108__ and all three of these numbers are interesting. The numbers regularly pop up in Eastern spirituality so many of you I’m sure will recognise them as part of daily life.
 

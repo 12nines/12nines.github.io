@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: []
 ---
-{% include JB/setup %}
 
 Well and truly getting started with some adventures on this [Maha Shivaratri](http://en.wikipedia.org/wiki/Maha_Shivaratri) night of 2012. I have had the 12nines.com domain for a while and I thought that this was a good a time as any to get myself started on a new journey. I’ll be updating the About section on this site over the next couple of days with a little more information on why in particular I have decided to roll with 12nines.
 

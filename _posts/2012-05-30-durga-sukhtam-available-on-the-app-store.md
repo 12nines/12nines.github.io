@@ -12,7 +12,7 @@ It’s been a while since the last post, development has been slow and nothing i
 
 The Durga Sukhtam app is a free learning tool to help people learn the Durga Sukhtam, an old vedic chant from the Mahanarayana Upanishad. Vedic chants have been passed on from generation to generation unchanged since very ancient times, the sound aspect is equally important as the words used in the chants. The Durga Sukhtam app helps aspirants studying the Vedas.
 
-<img style="float: right; margin-left: 1.625em;" src="/images/IMG_0768_300.png" />
+<img width="210" height="315" style="float: right; margin-left: 1.625em;" src="/images/IMG_0768_300.png" />
 
 The applications is divided into 2 distinct sections, the first section is called “Learn”.  This section of the app helps aspirants by breaking up the chant into bite size stanzas which can be repeated one by one until they are perfected. Each stanza shows the devengiri text and underneath you have the English transliteration and the audio in call-and-response format can be played at the same time. This can be repeated stanza by stanza or can be played continuously. The app is built for touch, you can either user the familiar previous/next buttons or swipe the screen to move between stanzas.
 

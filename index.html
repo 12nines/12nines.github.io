@@ -1,25 +1,13 @@
----
-layout: layout
-title: "12nines.com"
----
-
-<section class="content">
-  <h1 class="thin">12nines.com</h1>
-  <div class="posts">
-    {% for post in site.posts %}
-    <div class="post">
-	<h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
-	<h4>{{ post.date | date_to_string }}</h4>
-	<p>{{ post.content }}</p>
-    </div>
-    {% endfor %}
-</div>
-
-  <ul class="listing">
-    {% for post in site.posts %}
-    <li>
-      <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endfor %}
-  </ul>
-</section>
+<html>
+  <head>
+    <title>Welcome to 12nines.com</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <h1>12nines.com</h1>
+    <p>
+      This is the new homepage for 12nines.com and when I get a moment I'll
+      write some more interesting content in here.
+    </p>
+  </body>
+</html>

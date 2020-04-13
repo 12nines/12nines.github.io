@@ -1,3 +1,42 @@
 body {
+  margin: 0;
+  background: #66717e;
   font-family: sans-serif;
+}
+
+.logo {
+  width: 50vw;
+  height: 50vw;
+  background-color: #32213a;
+  color: #d1caa1;
+  border-radius: 10%;
+  box-shadow: 10px 10px 25px -13px rgba(0, 0, 0, 0.75);
+
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  margin: auto;
+
+  text-align: center;
+}
+
+.logo h1 {
+  font-family: "Gurajada", serif;
+  padding-top: 5vw;
+  font-size: 10vw;
+}
+
+.contact {
+  font-size: 3vw;
+  color: #66717e;
+}
+
+.contact a,
+a:visited,
+a:hover {
+  color: #66717e;
+  text-decoration: none;
 }
